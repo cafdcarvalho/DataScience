@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-carlosFelipe-red.svg)](https://www.linkedin.com/in/carlos-felipe-carvalho-819215197) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/author-CarlosFelipe-red.svg)](https://www.linkedin.com/in/carlos-felipe-carvalho-819215197) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 
 <p align="center">
